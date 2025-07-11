@@ -1,0 +1,120 @@
+--- String Utilities ---
+1. Slugify text
+2. Capitalize first letter
+3. Convert to camelCase
+4. Convert to snake_case
+5. Convert to kebab-case
+6. Reverse a string
+7. Count words
+8. Count characters
+9. Truncate string
+10. Remove special characters
+11. Encode URL
+12. Decode URL
+13. Escape HTML
+14. Unescape HTML
+15. Generate random string
+16. Check if string is palindrome
+
+--- Number Utilities ---
+17. Format number with commas
+18. Convert bytes to KB/MB/GB
+19. Convert Celsius to Fahrenheit
+20. Generate random number in range
+21. Add ordinal suffix (1st, 2nd)
+22. Check if number is prime
+23. Round to nearest X
+24. Get percentage
+25. Clamp number within range
+
+--- Date/Time Utilities ---
+26. Get current timestamp
+27. Format date
+28. Convert Unix to human-readable
+29. Add days to date
+30. Subtract days from date
+31. Get day of the week
+32. Check if date is weekend
+33. Time ago (e.g. 2 days ago)
+34. Time until (future date)
+35. Get week number
+36. Get timezone offset
+37. Countdown timer object
+
+--- Array Utilities ---
+38. Chunk array
+39. Shuffle array
+40. Flatten array
+41. Remove duplicates
+42. Get random element
+43. Sort by key
+44. Group by key
+45. Count occurrences
+46. Remove falsy values
+47. Zip two arrays
+
+--- Object Utilities ---
+48. Deep clone
+49. Deep merge
+50. Get nested value
+51. Set nested value
+52. Compare objects
+53. Clean object (remove undefined/null)
+54. Convert object to query string
+55. Parse query string to object
+
+--- JSON Utilities ---
+56. Pretty print JSON
+57. Minify JSON
+58. Validate JSON
+59. Convert CSV to JSON
+60. Convert JSON to CSV
+61. Flatten JSON
+62. Unflatten JSON
+
+--- Regex & Validation ---
+63. Validate email
+64. Validate phone number
+65. Validate IP address
+66. Validate URL
+67. Regex tester
+68. Extract numbers from string
+69. Extract emails from text
+70. Detect language (basic)
+71. Sanitize input
+72. Check strong password
+
+--- Conversion Utilities ---
+73. Markdown to HTML
+74. HTML to Markdown
+75. Text to Base64
+76. Base64 to Text
+77. Image to Base64
+78. Base64 to Image
+79. XML to JSON
+80. JSON to XML
+81. RGB to HEX
+82. HEX to RGB
+83. Currency converter (API)
+84. Timezone converter
+
+--- Random Generators ---
+85. UUID generator (v4)
+86. Random password generator
+87. Random color generator
+88. Random hex code
+89. Random quote (from file)
+90. Random emoji
+91. Random boolean
+92. Random date in range
+
+--- Dev-Specific Utilities ---
+93. API key generator
+94. Delay (sleep) function
+95. Retry function with backoff
+96. Throttle function
+97. Debounce function
+98. Performance timer
+99. Logger with levels (info, warn, error)
+100. CLI progress bar
+

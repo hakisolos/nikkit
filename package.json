@@ -1,0 +1,15 @@
+{
+  "name": "nikkit",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "testst": "bun src/tests/string.tests.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
